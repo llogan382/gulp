@@ -1,0 +1,23 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Gulp Course to practice and review Gulp concepts",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llogan382/gulp.git"
+  },
+  "author": "luke@loganwebdev.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llogan382/gulp/issues"
+  },
+  "homepage": "https://github.com/llogan382/gulp#readme"
+}
